@@ -1,5 +1,5 @@
-data/obj_train_data/frame_000487.jpg
-data/obj_train_data/frame_001098.jpg
-data/obj_train_data/frame_001194.jpg
-data/obj_train_data/frame_001240.jpg
-data/obj_train_data/frame_001251.jpg
+data/obj_train_data/3_2_frames/frame_000487.jpg
+data/obj_train_data/3_2_frames/frame_001098.jpg
+data/obj_train_data/3_2_frames/frame_001194.jpg
+data/obj_train_data/3_2_frames/frame_001240.jpg
+data/obj_train_data/3_2_frames/frame_001251.jpg
