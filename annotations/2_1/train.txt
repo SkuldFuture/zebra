@@ -1,0 +1,12 @@
+data/obj_train_data/video2_1/frame_000258.jpg
+data/obj_train_data/video2_1/frame_000269.jpg
+data/obj_train_data/video2_1/frame_000280.jpg
+data/obj_train_data/video2_1/frame_000291.jpg
+data/obj_train_data/video2_1/frame_000302.jpg
+data/obj_train_data/video2_1/frame_000313.jpg
+data/obj_train_data/video2_1/frame_000324.jpg
+data/obj_train_data/video2_1/frame_000335.jpg
+data/obj_train_data/video2_1/frame_000346.jpg
+data/obj_train_data/video2_1/frame_001279.jpg
+data/obj_train_data/video2_1/frame_001290.jpg
+data/obj_train_data/video2_1/frame_001301.jpg

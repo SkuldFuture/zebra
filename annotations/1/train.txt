@@ -1,0 +1,10 @@
+data/obj_train_data/frame_000105.jpg
+data/obj_train_data/frame_000110.jpg
+data/obj_train_data/frame_000117.jpg
+data/obj_train_data/frame_000122.jpg
+data/obj_train_data/frame_000127.jpg
+data/obj_train_data/frame_000132.jpg
+data/obj_train_data/frame_000137.jpg
+data/obj_train_data/frame_000142.jpg
+data/obj_train_data/frame_000147.jpg
+data/obj_train_data/frame_000152.jpg
