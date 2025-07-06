@@ -1,0 +1,15 @@
+path: ./augmented_dataset
+train: train/images
+val: val/images
+test: test/images
+
+nc: 7
+
+names:
+  - DISH1
+  - DISH2
+  - DISH3
+  - DISH4
+  - DISH5
+  - DISH6
+  - DISH7
